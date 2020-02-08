@@ -6,7 +6,7 @@ html, body, div {
 }
 
 #secret, a {
-	color: #222 !important;
+	color: rgb(22, 22, 22) !important;
 	font-size: small;
 	text-decoration: none;
 }
