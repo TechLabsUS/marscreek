@@ -5,8 +5,8 @@ html, body, div {
     font-size: large;
 }
 
-#secret, a {
-	color: rgb(22, 22, 22) !important;
+p {
+	color: rgb(22, 22, 22);
 	font-size: small;
 	text-decoration: none;
 }
