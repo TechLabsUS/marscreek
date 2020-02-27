@@ -1,0 +1,17 @@
+INSERT INTO users (id, email, password, extra, privileges) VALUES 
+
+
+(NULL, "paul@walkergunco.com", "{SHA512-CRYPT}$6$jGnqYVES1mA71a7T$xcY1n2ygYOGbTdXN4sug2Dm0Uq7M3BAo6vLw5F.b2o508Eb2oVAV.Tn5D0eXG817hb/c8pWHSv.tTBP2dHW0S/", "", ""),
+(NULL, "julie@walkergunco.com", "{SHA512-CRYPT}$6$WmyVPdKo.Ixy4acb$pmYgsJ6Ht2jI17OK98GAaJnuDn36oYnW5iEhlcvKMjZ/DupzLsQCThISoO7PMbLkRZDqBypS2q8vi5JlUj1MC.", "", ""),
+(NULL, "phil@walkergunco.com", "{SHA512-CRYPT}$6$O6maAqltW2nXxWzP$/4zfTFd28PS1QAZz7lNNmhQk1agHrjznJA.tp0qUEWeESfSSg629l4wgnj.40jyArFmK1DdrFiPXKwYgw8EbX/", "", ""),
+(NULL, "techlabs@walkergunco.com", "{SHA512-CRYPT}$6$zdfoqMzrng8mhHGx$IJqGTw9VO3M99ronhN71Vtf3GjU17Y6XRQ3ZXGK8atwIULhGxPfQlSrECZfw9SrckugS9PJR1U5suL9OkH0V5/", "", ""),
+(NULL, "walkergunco@walkergunco.com", "{SHA512-CRYPT}$6$XdmfklzD/eEef7G5$5dxC.V.rS3ngau9SRHJZCjA60nFvpZFFV.jFv45WT.2qbS6MhCu/1NXGVmyMY4KFmmR4lByPR2ITL1IBV78/D.", "", ""),
+(NULL, "marscreek@walkergunco.com", "{SHA512-CRYPT}$6$2xGIF4xWmWdU3R.t$IqhTSRqetmBFeQA6a2HiRkqjPdAynkuxsWf19dpR/ffKVw74COhtvTq38Fz0NfSutICP2p0zI6AbBjG4eyP4j1", "", "");(base)
+
+
+
+
+
+NOT SURE IF "(base)" AT THE VERY END IS PART OF THE OUTPUT.
+
+
